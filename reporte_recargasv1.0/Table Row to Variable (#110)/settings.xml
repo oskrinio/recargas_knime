@@ -18,13 +18,13 @@
 <entry key="type" type="xstring" value="variable"/>
 <entry key="name" type="xstring" value="RowID"/>
 <entry key="class" type="xstring" value="STRING"/>
-<entry key="value" type="xstring" value="Row0"/>
+<entry key="value" type="xstring" value=""/>
 </config>
 <config key="Variable_3">
 <entry key="type" type="xstring" value="variable"/>
 <entry key="name" type="xstring" value="TX"/>
 <entry key="class" type="xstring" value="INTEGER"/>
-<entry key="value" type="xint" value="28566"/>
+<entry key="value" type="xint" value="0"/>
 </config>
 </config>
 <config key="internal_node_subsettings">

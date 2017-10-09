@@ -18,8 +18,8 @@
 </config>
 <config key="values">
 <entry key="array-size" type="xint" value="2"/>
-<entry key="0" type="xstring" value="2017-09-01"/>
-<entry key="1" type="xstring" value="2017-09-30"/>
+<entry key="0" type="xstring" value="2017-08-01"/>
+<entry key="1" type="xstring" value="2017-08-31"/>
 </config>
 <entry key="rowIdPrefix" type="xstring" value="Row"/>
 <entry key="rowIdSuffix" type="xstring" value=""/>
