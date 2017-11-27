@@ -19,7 +19,7 @@
 <config key="values">
 <entry key="array-size" type="xint" value="2"/>
 <entry key="0" type="xstring" value="2017-11-01"/>
-<entry key="1" type="xstring" value="2017-11-02"/>
+<entry key="1" type="xstring" value="2017-11-26"/>
 </config>
 <entry key="rowIdPrefix" type="xstring" value="Row"/>
 <entry key="rowIdSuffix" type="xstring" value=""/>
